@@ -1,0 +1,17 @@
+PDF-Password-Recovery-John-the-Ripper/
+│
+├── README.md
+│
+├── Screenshots/
+│   ├── 01-Johnny-Download.png
+│   ├── 02-Tool-Installation.png
+│   ├── 03-PDF-Hash-Extraction.png
+│   ├── 04-Lab-Environment.png
+│   ├── 05-Password-Verification.png
+│   └── 06-Successful-Flag.png
+│
+├── Documentation/
+│   └── Lab-Documentation.md
+│
+└── Resources/
+    └── Tools-and-References.md
