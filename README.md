@@ -40,13 +40,13 @@ This project is part of my hands-on cybersecurity learning journey.
 
 Downloaded the John the Ripper tools and prepared the Windows environment for password recovery testing.
 
-![John the Ripper Download](Screenshots/01-Johnny-Download.png)
+![John the Ripper Download]
 
 ### Step 2: Install and Configure the Tools
 
 Extracted the downloaded archives and prepared the John the Ripper environment.
 
-![Installation](Screenshots/02-Tool-Installation.png)
+![Installation]
 
 ### Step 3: Extract the PDF Password Hash
 
@@ -54,7 +54,7 @@ Selected the authorized practice PDF file and used a PDF hash extraction tool to
 
 The extracted hash provides the input required for password recovery testing.
 
-![PDF Hash Extraction](Screenshots/03-PDF-Hash-Extraction.png)
+![PDF Hash Extraction]
 
 **Security Note:** Actual password hashes and recovered passwords are not published in this repository.
 
@@ -62,20 +62,19 @@ The extracted hash provides the input required for password recovery testing.
 
 Organized the necessary files, tools, and wordlists for the practical exercise.
 
-![Lab Environment](Screenshots/04-Lab-Environment.png)
+![Lab Environment]
 
 ### Step 5: Perform Password Verification
 
 Used the password recovery result to verify access to the authorized PDF document.
 
-![Password Verification](Screenshots/05-Password-Verification.png)
+![Password Verification]
 
 ### Step 6: Successful Lab Result
 
 Successfully accessed the practice document and captured the lab flag.
 
-![Successful Flag](Screenshots/06-Successful-Flag.png)
-
+![Successful Flag]
 ---
 
 ## 🧠 Key Concepts Learned
